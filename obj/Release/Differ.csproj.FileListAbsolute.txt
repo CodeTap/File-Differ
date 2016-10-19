@@ -1,0 +1,8 @@
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Differ.csprojResolveAssemblyReference.cache
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\bin\Release\Differ.exe
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\bin\Release\Differ.pdb
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Test.Form1.resources
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Differ.Properties.Resources.resources
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Differ.csproj.GenerateResource.Cache
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Differ.exe
+B:\P4\seventen\Zanzibar\tools\Log_Parser\Differ\Differ\obj\Release\Differ.pdb
